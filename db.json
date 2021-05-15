@@ -2,12 +2,14 @@
   "issues": [
     {
       "id": 1,
-      "title": "hello",
-      "state": "nonew",
-      "url": "fghjk",
-      "created_at": "rghwegf",
-      "updated_a": "ghjj",
-      "group": "IPZ"
+      "student": "Петрів Оксана Василівна",
+      "group": "ІПЗ-41",
+      "course": "4",
+      "specialty": "Інженерія програмного забезпеченння",
+      "payment_at": "10.05.2021",
+      "faculty": "Математики та інформатики",
+      "cost": "Вартість навчання за семестр",
+      "arrears": "Заборгованість"
     }
   ],
   "profile": {
